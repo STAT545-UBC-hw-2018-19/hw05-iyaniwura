@@ -1,6 +1,6 @@
-# Homework 5: Factor and figure managemant
+# Homework 5: Factor and figure management
 
-In this homework, we explore the use of tidy data and other data aggregation data on data frames. 
+In this homework, we explore the use of factor and figure management for better visualization. 
 
 This repository contains severla files, some of the are the images that are required for in the homework. 
 Here is brief description of the important folders;
